@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Galeria de filmes</title>
+        <title> Galeria de Filmes </title>
     </head>
     <body>
         <h1>O Pequeno Príncepe</h1>
