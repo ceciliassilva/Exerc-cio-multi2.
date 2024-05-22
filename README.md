@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title> Galeria de Filmes </title>
+        <title>Galeria de Filmes</title>
     </head>
     <body>
         <h1>O Pequeno Príncepe</h1>
@@ -21,22 +21,22 @@
     <footer>
         <h2>Referências</h2>
         <h3>
-            <href="https://pt.wikipedia.org/wiki/Le_Petit_Prince_(2015)"></href>
+            <a href="https://pt.wikipedia.org/wiki/Le_Petit_Prince_(2015)" target="_blank"></a>
         </h3>
         <h3>
-            <href="https://pt.wikipedia.org/wiki/Bridge_to_Terabithia></href>
+            <a href="https://pt.wikipedia.org/wiki/Bridge_to_Terabithia target="_blank"></a>
         </h3>
         <h3>
-            <href="https://pt.wikipedia.org/wiki/O_Auto_da_Compadecida_(filme)"></href>
+            <a href="https://pt.wikipedia.org/wiki/O_Auto_da_Compadecida_(filme)" target="_blank"></a>
         </h3>
         <h3>
-            <href="https://pt.wikipedia.org/wiki/Work_It_(filme)"></href>
+            <a href="https://pt.wikipedia.org/wiki/Work_It_(filme)" target="_blank"></a>
         </h3>
         <h3>
-            <href="https://pt.wikipedia.org/wiki/Tonari_no_Totoro"></href>
+            <a href="https://pt.wikipedia.org/wiki/Tonari_no_Totoro" target="_blank"></a>
         </h3>
         <h3>
-            <href="https://pt.wikipedia.org/wiki/Esposa_de_Aluguel"></href>
+            <a href="https://pt.wikipedia.org/wiki/Esposa_de_Aluguel" target="_blank"></a>
         </h3>
     </footer>
 </html>
