@@ -20,23 +20,21 @@
     </body>
     <footer>
         <h2>Referências</h2>
-        <h3>
-            <a href="https://pt.wikipedia.org/wiki/Le_Petit_Prince_(2015)" target="_blank"></a>
+         <h3>
+            <a href="https://pt.wikipedia.org/wiki/Le_Petit_Prince_(2015)" target="_blank">Link Pequeno Príncipe</a>
         </h3>
         <h3>
-            <a href="https://pt.wikipedia.org/wiki/Bridge_to_Terabithia target="_blank"></a>
+            <a href="https://pt.wikipedia.org/wiki/Bridge_to_Terabithia" target="_blank">Link Ponte para Terabithia</a>
         </h3>
         <h3>
             <a href="https://pt.wikipedia.org/wiki/O_Auto_da_Compadecida_(filme)" target="_blank"></a>
         </h3>
         <h3>
-            <a href="https://pt.wikipedia.org/wiki/Work_It_(filme)" target="_blank"></a>
+            <a href="https://pt.wikipedia.org/wiki/Work_It_(filme)" target="_blank">Link Dançarina Perfeita</a>
         </h3>
         <h3>
-            <a href="https://pt.wikipedia.org/wiki/Tonari_no_Totoro" target="_blank"></a>
+            <a href="https://pt.wikipedia.org/wiki/Tonari_no_Totoro" target="_blank">Link Meu Amigo Tototo</a>
         </h3>
         <h3>
-            <a href="https://pt.wikipedia.org/wiki/Esposa_de_Aluguel" target="_blank"></a>
-        </h3>
-    </footer>
+            <a href="https://pt.wikipedia.org/wiki/Esposa_de_Aluguel" target="_blank">Link Esposa de Aluguel</a>
 </html>
